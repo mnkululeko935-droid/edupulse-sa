@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://edupulse-sa-hd4603.v2.appdeploy.ai/sitemap.xml
