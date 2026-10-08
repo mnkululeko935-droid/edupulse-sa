@@ -1,3 +1,6 @@
 name = "edupulse-ai-backend"
 main = "src/index.js"
 compatibility_date = "2026-10-08"
+
+[secrets]
+required = ["GEMINI_API_KEY"]
